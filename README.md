@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritesh
 - 👀 I’m interested in coding
-- 🌱 I’m currently studying in b.tech 1st yr (CSE)
+- 🌱 I’m currently studying in b.tech 1st yr (IT)
 
 <!---
 K123Ritesh/K123Ritesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
