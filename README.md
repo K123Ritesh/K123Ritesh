@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritesh
-- 👀 I’m interested in coding
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently studying in b.tech 1st yr (IT)
 
 <!---
