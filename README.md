@@ -1,21 +1,10 @@
 # Hi there! 👋
 
-I'm Ritesh Shandilya, a passionate Android Developer who loves to explore the world of technology and coding.
+I'm ##Ritesh Shandilya, a passionate Android Developer who loves to explore the world of technology and coding.
 
 ## About Me
 
 I enjoy creating AI/ML Projects and Integrating it in Android and am constantly seeking new ways to innovate and learn. With a background in [mention any relevant background or experience], I'm always excited about challenges that push my boundaries.
-
-## Featured Projects
-
-### [Project Name 1](link-to-project-1)
-Short description or tagline about the project. Add an image or logo here if possible.
-
-### [Project Name 2](link-to-project-2)
-Another brief description showcasing the uniqueness of the project. Consider adding visuals for better engagement.
-
-### [Project Name 3](link-to-project-3)
-Highlight what makes this project stand out. Visuals or statistics can make it more appealing.
 
 ## Technologies and Skills
 
