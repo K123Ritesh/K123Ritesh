@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm ##Ritesh Shandilya, a passionate Android Developer who loves to explore the world of technology and coding.
+I'm Ritesh Shandilya, a passionate Android Developer who loves to explore the world of technology and coding.
 
 ## About Me
 
