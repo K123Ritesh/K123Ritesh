@@ -4,7 +4,7 @@ I'm Ritesh Shandilya, a passionate Android Developer who loves to explore the wo
 
 ## About Me
 
-I enjoy creating AI/ML Projects and Integrating it in Android and am constantly seeking new ways to innovate and learn. With a background in [mention any relevant background or experience], I'm always excited about challenges that push my boundaries.
+I enjoy creating AI/ML Projects and Integrating it in Android and am constantly seeking new ways to innovate and learn. With a background in SWE Intern at Manastik ,Obscura Software Pvt Ltd and Sling Neo, I'm always excited about challenges that push my boundaries.
 
 ## Technologies and Skills
 
