@@ -9,7 +9,7 @@ I enjoy creating AI/ML Projects and Integrating it in Android and am constantly 
 ## Technologies and Skills
 
 - Programming Languages: [Java ,Dart ,Python, C++,C,JavaScript]
-- Tools & Frameworks: [Flutter ,React.js ]
+- Tools & Frameworks: [Flutter ,React.js ,Golang]
 - Other Skills: [Communication ,Team Work]
 
 ## GitHub Stats
