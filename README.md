@@ -14,7 +14,7 @@ I enjoy creating AI/ML Projects and Integrating it in Android and am constantly 
 
 ## GitHub Stats
 
-[![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=K123Ritesh)](https://github.com/anuraghazra/github-readme-stats)
+[![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=K123Ritesh&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
 
