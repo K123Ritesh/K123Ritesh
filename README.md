@@ -1,30 +1,27 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
-I'm Ritesh Shandilya, a passionate Android Developer who loves to explore the world of technology and coding.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k123ritesh&label=Profile%20views&color=0e75b6&style=flat" alt="k123ritesh" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k123ritesh" alt="k123ritesh" /></a> </p>
 
-I enjoy creating AI/ML Projects and Integrating it in Android and am constantly seeking new ways to innovate and learn. With a background in SWE Intern at Manastik ,Obscura Software Pvt Ltd and Sling Neo, I'm always excited about challenges that push my boundaries.
+- 🔭 I’m currently working on [PodiumPe Mobile App](https://apps.apple.com/in/app/podiumpe-fantasy-motorsports/id6478319821)
 
-## Technologies and Skills
+- 🌱 I’m currently learning **Nest js , Go**
 
-- Programming Languages: [Java ,Dart ,Python, C++,C,JavaScript]
-- Tools & Frameworks: [Flutter ,React.js ,Golang]
-- Other Skills: [Communication ,Team Work]
+- 💬 Ask me about **Flutter, React, Node ,Express**
 
-## GitHub Stats
+- 📫 How to reach me **riteshkumarlsarai@gmail.com**
 
-[![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=K123Ritesh&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Let's Connect!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Feel free to reach out or connect with me on:
-- [LinkedIn](www.linkedin.com/in/ritesh-kumar-323899247)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k123ritesh&show_icons=true&locale=en&layout=compact" alt="k123ritesh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k123ritesh&show_icons=true&locale=en" alt="k123ritesh" /></p>
 
-## Get in Touch
-
-I'm always open to collaborations, discussions, or simply connecting with fellow developers and tech enthusiasts. If you have an exciting project or just want to chat, feel free to [contact me](mailto:riteshkumarlsarai@gmail.com)!
-
-Looking forward to connecting with you! 😊
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k123ritesh&" alt="k123ritesh" /></p>
