@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [PodiumPe Mobile App](https://apps.apple.com/in/app/podiumpe-fantasy-motorsports/id6478319821)
 
-- 🌱 I’m currently learning **Nest js , Go**
+- 🌱 I’m currently learning **Nest js , Go** 
 
-- 💬 Ask me about **Flutter, React, Node ,Express**
+- 💬 Ask me about **Flutter,React Native, React, Node ,Express**
 
 - 📫 How to reach me **riteshkumarlsarai@gmail.com**
 
