@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k123ritesh" alt="k123ritesh" /></a> </p>
 
-- 🔭 I’m currently working on [PodiumPe Mobile App](https://apps.apple.com/in/app/podiumpe-fantasy-motorsports/id6478319821) and [Matiks](matiks.com)
+- 🔭 I’m currently working on [PodiumPe Mobile App](https://apps.apple.com/in/app/podiumpe-fantasy-motorsports/id6478319821) and [Matiks](https://matiks.com)
 
 - 🌱 I’m currently learning **Nest js , Go** 
 
