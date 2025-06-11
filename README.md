@@ -29,9 +29,9 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k123ritesh&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rajan-shubham&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k123ritesh&show_icons=true&locale=en" alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan-shubham" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k123ritesh" alt="Streak Stats" />
 
 </details>
 
